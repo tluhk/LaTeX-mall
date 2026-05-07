@@ -1,12 +1,6 @@
 # TLÜ Haapsalu kolledži LaTeXi malli kasutusjuhend
 
-**Õppekava:** Rakendusinformaatika õppekava
-
 **Autor:** Peeter Alliksaar
-
-**Töö liik:** Kasutusjuhend
-
-**Juhendaja:** Martti Raavel, MA
 
 **Aasta:** 2026
 
