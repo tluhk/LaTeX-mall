@@ -39,14 +39,12 @@ Sammud:
 1. Ava lehekülg <https://www.overleaf.com>.
 2. Logi keskkonda sisse või loo uus kasutaja.
 3. Loo uus tühi projekt.
-![Uue projekti alustamine](Pildid/blankProject.png)
-
+   ![Uue projekti alustamine](Pildid/blankProject.png)
 4. Pane projektile nimi.
 5. kustuta `main.tex`, mis on automaatselt lisatud.
-![main.tex kustutamine](Pildid/mainDelete.png)
-
+   ![main.tex kustutamine](Pildid/mainDelete.png)
 6. Lisa projekti failid, mis GitHubist tõmbasid: `main.tex`, `tlu-hk-thesis.cls`, `allikad.bib`
-![Failide üleslaadimine](Pildid/Upload.png)
+   ![Failide üleslaadimine](Pildid/Upload.png)
 
 7. Soovitatav on luua Overleafis ka uus tühi kaust nimega "pildid", kuhu lisada projektis kasutatavaid pilte.
 8. Kontrolli, et `main.tex` faili esimene rida oleks `\documentclass{tlu-hk-thesis}`.
@@ -246,7 +244,7 @@ Soovitan tabelite koostamisel kasutada mõnda veebis leiduvat tabelite loojat na
 
 Selliste tööriistadega on võimalik mugavamalt ja visuaalselt oma tabel vormistada selliseks, nagu soovid.
 
-Tabelil peab olema pealkiri `\caption{}`  sulgude vahel
+Tabelil peab olema pealkiri `\caption{}` sulgude vahel
 
 Näide tabeli loomisest LaTeXis:
 
